@@ -183,13 +183,8 @@ linkup-social-platform/
 
 ### Deploy to Netlify
 1. Build the project: `npm run build`
-2. Deploy the `out` folder to [Netlify](https://netlify.com)
+2. Deploy the `out` folder to [Netlify](https://linnkup.netlify.app/)
 3. Set up environment variables if needed
-
-### Deploy to Vercel (Alternative)
-1. Push your code to GitHub
-2. Connect your repository to [Vercel](https://vercel.com)
-3. Deploy with default settings
 
 ## 🤝 Contributing
 
