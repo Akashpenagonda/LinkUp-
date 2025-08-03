@@ -29,7 +29,7 @@ A modern, responsive social networking platform built for professionals to conne
 ### 1. Clone the Repository
 ```bash
 git clone <your-repository-url>
-cd linkup-social-platform
+cd LinkUp
 ```
 
 ### 2. Install Dependencies
